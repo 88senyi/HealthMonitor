@@ -1,6 +1,6 @@
 {
   "name": "healthmonitortea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Welcome to HealthMonitor! HealthMonitor is a comprehensive health tracking and management system designed to help individuals monitor and improve their overall well-being. Whether you're tracking fitness goals, managing chronic conditions, or simply aiming to live a healthier lifestyle, HealthMonitor provides the tools and insights you need to take control of your health journey.",
   "main": "index.js",
   "scripts": {},
@@ -43,7 +43,10 @@
     "ecoeatstea": "^1.0.0",
     "ecotrack_tea": "^1.0.1",
     "securevault-tea": "^1.0.1",
-"codegenius-tea": "^1.0.1"
+    "codegenius-tea": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "husky": "^9.0.11",
+    "karma-coverage-istanbul-reporter": "^3.0.3"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
